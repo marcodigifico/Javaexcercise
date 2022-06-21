@@ -12,7 +12,7 @@ public class Hotel {
 	float suitePrice;
 	
 	int roomsPerFlat;
-	ArrayList<ArrayList<Room>> rooms;
+	 ArrayList<ArrayList<Room>> rooms;
 	public Hotel(){
 		rooms = new ArrayList<>();
 		
